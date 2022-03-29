@@ -10,3 +10,4 @@ Clone this repository and run "NPM INSTALL" command after the run the "NPM START
 It will shows the all the holders data on the web table in a sorted form and the largest token holder will be omit from the list. 
 
 These have the exact same results as we can view on the polygonscan we can compare the them too. 
+![Web capture_29-3-2022_134738_localhost](https://user-images.githubusercontent.com/42972151/160581892-a80508b6-0fa7-4c12-8349-22dd531fc061.jpeg)
